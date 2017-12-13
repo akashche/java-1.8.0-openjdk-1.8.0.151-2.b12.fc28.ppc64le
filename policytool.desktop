@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=OpenJDK 8 Policy Tool 1.8.0.151-2.b12.fc28.ppc64le
+Comment=Manage OpenJDK policy files 1.8.0.151-2.b12.fc28.ppc64le
+Exec=%{_jvmdir}/java-1.8.0-openjdk-1.8.0.151-2.b12.fc28.ppc64le/jre/bin/policytool
+Icon=java-1.8.0
+Terminal=false
+Type=Application
+StartupWMClass=sun-security-tools-PolicyTool
+Categories=Settings;Java;
+Version=1.0
